@@ -26,28 +26,35 @@ Here are some of the programming and data analysis skills that I have developed:
 If you're interested in connecting or learning more about my work, feel free to connect with me on <a href="https://www.linkedin.com/in/pedro-hs-azevedo/?locale=en_US" target="_blank" rel="noopener noreferrer">LinkedIn</a> or send me an email at <a href="mailto:pedroazevedo252@gmail.com" target="_blank" rel="noopener noreferrer">pedroazevedo252@gmail.com</a>.
 
 <details>
-<p align="center">
-  <a href="https://github.com/PedroPrebeck">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPrebeck&theme=transparent" />
-  </a>
-  <a href="https://github.com/PedroPrebeck">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPrebeck&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/PedroPrebeck">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroPrebeck&theme=transparent" />
-  </a>
-  <a href="https://github.com/PedroPrebeck">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPrebeck&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPrebeck&langs_count=10&exclude_repo=&hide=&layout=compact&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-  <!--
-  <a href="https://github.com/PedroPrebeck">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact&hide_border=true&theme=transparent" />
-  </a>
-  -->
-</p>
+  <summary>📈 Stats</summary>
+  <p align="center">
+    <a href="https://github.com/PedroPrebeck">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPrebeck&theme=transparent" />
+    </a>
+    <a href="https://github.com/PedroPrebeck">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPrebeck&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/PedroPrebeck">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PedroPrebeck&theme=transparent" />
+    </a>
+    <a href="https://github.com/PedroPrebeck">
+    <!--
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPrebeck&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPrebeck&langs_count=10&exclude_repo=&hide=&layout=compact&card_width=699&hide_border=true&theme=transparent" />
+    </a>
+    <!--
+    <a href="https://github.com/PedroPrebeck">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact&hide_border=true&theme=transparent" />
+    </a>
+    -->
+    <br>
+    <span>Currently Listening to:</span>
+    <br>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=mutangfx&redirect=true">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=mutangfx&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify-GitHub-Profile">
+    </a>
+  </p>
 </details>
 
 <p align="center">
