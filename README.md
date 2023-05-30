@@ -43,11 +43,9 @@ If you're interested in connecting or learning more about my work, feel free to 
     -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPrebeck&langs_count=10&exclude_repo=&hide=&layout=compact&card_width=699&hide_border=true&theme=transparent" />
     </a>
-    <!--
     <a href="https://github.com/PedroPrebeck">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact&hide_border=true&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PedroPrebeck&layout=compact&hide_border=true&theme=transparent&range=last_7_days" />
     </a>
-    -->
     <br>
     <span>Currently Listening to:</span>
     <br>
