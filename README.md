@@ -59,4 +59,6 @@ If you're interested in connecting or learning more about my work, feel free to 
   <a href="https://github.com/PedroPrebeck">
     <img src="https://komarev.com/ghpvc/?username=PedroPrebeck&color=007ec6&style=for-the-badge&label=Profile+Views" />
   </a>
+  <br>
+  <a href="https://wakatime.com/@87746dda-03fb-4a3d-86ba-51a9ed49b9b0"><img src="https://wakatime.com/badge/user/87746dda-03fb-4a3d-86ba-51a9ed49b9b0.svg" alt="Total time coded since May 26 2023" /></a>
 </p>
